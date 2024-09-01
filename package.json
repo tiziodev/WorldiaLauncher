@@ -1,7 +1,7 @@
 {
     "name": "worldia-launcher",
     "preductname": "Worldia Launcher",
-    "version": "4.1.0",
+    "version": "4.2.0",
     "description": "Launcher Mincraft pour le serveur Worldia",
     "main": "src/app.js",
     "author": {
